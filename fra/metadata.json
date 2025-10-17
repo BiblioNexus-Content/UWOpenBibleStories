@@ -27,8 +27,8 @@
       "showAdaptationNoticeForNonEnglish": true
     },
     "adaptation_notice": "",
-    "collection_code": "UWOpenBibleStories",
-    "date_created": "2025-10-15",
+    "resource_code": "UWOpenBibleStories",
+    "date_created": "2025-10-16",
     "language": "fra",
     "localizations": [
       "eng",
@@ -52,7 +52,7 @@
       "version": "1.0.0",
       "category": "source",
       "defaultLocale": "en",
-      "dateCreated": "2025-10-15T13:47:47.106958"
+      "dateCreated": "2025-10-16T16:09:55.701316"
     },
     "idAuthorities": {
       "aquifer": {
@@ -66,7 +66,7 @@
       "primary": {
         "aquifer": {
           "UWOpenBibleStories": {
-            "timestamp": "2025-10-15T13:47:47.106958"
+            "timestamp": "2025-10-16T16:09:55.701316"
           }
         }
       },
@@ -295,6 +295,206 @@
       "json/000050.content.json": {
         "mimeType": "text/json",
         "size": 9927
+      },
+      "md/000001.content.md": {
+        "mimeType": "text/markdown",
+        "size": 5905
+      },
+      "md/000002.content.md": {
+        "mimeType": "text/markdown",
+        "size": 5253
+      },
+      "md/000003.content.md": {
+        "mimeType": "text/markdown",
+        "size": 6511
+      },
+      "md/000004.content.md": {
+        "mimeType": "text/markdown",
+        "size": 4466
+      },
+      "md/000005.content.md": {
+        "mimeType": "text/markdown",
+        "size": 4700
+      },
+      "md/000006.content.md": {
+        "mimeType": "text/markdown",
+        "size": 3029
+      },
+      "md/000007.content.md": {
+        "mimeType": "text/markdown",
+        "size": 3991
+      },
+      "md/000008.content.md": {
+        "mimeType": "text/markdown",
+        "size": 5639
+      },
+      "md/000009.content.md": {
+        "mimeType": "text/markdown",
+        "size": 5626
+      },
+      "md/000010.content.md": {
+        "mimeType": "text/markdown",
+        "size": 4680
+      },
+      "md/000011.content.md": {
+        "mimeType": "text/markdown",
+        "size": 3345
+      },
+      "md/000012.content.md": {
+        "mimeType": "text/markdown",
+        "size": 5623
+      },
+      "md/000013.content.md": {
+        "mimeType": "text/markdown",
+        "size": 6885
+      },
+      "md/000014.content.md": {
+        "mimeType": "text/markdown",
+        "size": 7604
+      },
+      "md/000015.content.md": {
+        "mimeType": "text/markdown",
+        "size": 6195
+      },
+      "md/000016.content.md": {
+        "mimeType": "text/markdown",
+        "size": 9276
+      },
+      "md/000017.content.md": {
+        "mimeType": "text/markdown",
+        "size": 7728
+      },
+      "md/000018.content.md": {
+        "mimeType": "text/markdown",
+        "size": 5421
+      },
+      "md/000019.content.md": {
+        "mimeType": "text/markdown",
+        "size": 8611
+      },
+      "md/000020.content.md": {
+        "mimeType": "text/markdown",
+        "size": 6187
+      },
+      "md/000021.content.md": {
+        "mimeType": "text/markdown",
+        "size": 7797
+      },
+      "md/000022.content.md": {
+        "mimeType": "text/markdown",
+        "size": 3811
+      },
+      "md/000023.content.md": {
+        "mimeType": "text/markdown",
+        "size": 4867
+      },
+      "md/000024.content.md": {
+        "mimeType": "text/markdown",
+        "size": 3975
+      },
+      "md/000025.content.md": {
+        "mimeType": "text/markdown",
+        "size": 3085
+      },
+      "md/000026.content.md": {
+        "mimeType": "text/markdown",
+        "size": 4842
+      },
+      "md/000027.content.md": {
+        "mimeType": "text/markdown",
+        "size": 4385
+      },
+      "md/000028.content.md": {
+        "mimeType": "text/markdown",
+        "size": 4008
+      },
+      "md/000029.content.md": {
+        "mimeType": "text/markdown",
+        "size": 3663
+      },
+      "md/000030.content.md": {
+        "mimeType": "text/markdown",
+        "size": 3866
+      },
+      "md/000031.content.md": {
+        "mimeType": "text/markdown",
+        "size": 3568
+      },
+      "md/000032.content.md": {
+        "mimeType": "text/markdown",
+        "size": 6161
+      },
+      "md/000033.content.md": {
+        "mimeType": "text/markdown",
+        "size": 4106
+      },
+      "md/000034.content.md": {
+        "mimeType": "text/markdown",
+        "size": 4368
+      },
+      "md/000035.content.md": {
+        "mimeType": "text/markdown",
+        "size": 5317
+      },
+      "md/000036.content.md": {
+        "mimeType": "text/markdown",
+        "size": 3036
+      },
+      "md/000037.content.md": {
+        "mimeType": "text/markdown",
+        "size": 4675
+      },
+      "md/000038.content.md": {
+        "mimeType": "text/markdown",
+        "size": 6749
+      },
+      "md/000039.content.md": {
+        "mimeType": "text/markdown",
+        "size": 5523
+      },
+      "md/000040.content.md": {
+        "mimeType": "text/markdown",
+        "size": 4270
+      },
+      "md/000041.content.md": {
+        "mimeType": "text/markdown",
+        "size": 3876
+      },
+      "md/000042.content.md": {
+        "mimeType": "text/markdown",
+        "size": 6159
+      },
+      "md/000043.content.md": {
+        "mimeType": "text/markdown",
+        "size": 5452
+      },
+      "md/000044.content.md": {
+        "mimeType": "text/markdown",
+        "size": 4200
+      },
+      "md/000045.content.md": {
+        "mimeType": "text/markdown",
+        "size": 6344
+      },
+      "md/000046.content.md": {
+        "mimeType": "text/markdown",
+        "size": 5530
+      },
+      "md/000047.content.md": {
+        "mimeType": "text/markdown",
+        "size": 5908
+      },
+      "md/000048.content.md": {
+        "mimeType": "text/markdown",
+        "size": 6905
+      },
+      "md/000049.content.md": {
+        "mimeType": "text/markdown",
+        "size": 7908
+      },
+      "md/000050.content.md": {
+        "mimeType": "text/markdown",
+        "size": 7751
       }
     },
     "copyright": {
